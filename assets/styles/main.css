@@ -118,6 +118,10 @@ hr {
   margin-bottom: 100px;
 }
 
+.pt-4 {
+  padding-top: 4em;
+}
+
 .section {
   padding-top: 4em;
   padding-bottom: 1.5rem;
@@ -921,6 +925,10 @@ hr {
   position: relative;
   width: 100%;
 }
+.section , .paddingtopip {
+   
+  padding-top: 5em !important;
+}
 
 .info-base .info-overlay {
   position: absolute;
@@ -1626,7 +1634,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .accordions-1 .panel .panel-heading {
-  background: #f8f8f8;
+  background: #c1e7f2;
   padding: 25px 50px;
   border: none;
   border-radius: 0;
@@ -1769,8 +1777,8 @@ fieldset[disabled] .form-control:hover {
 .page-title {
   position: relative;
   background: #f4f4f4;
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 10em;
+  padding-bottom: 4em;
 }
 
 .page-title h1, .page-title .comingsoon .content-wrapper .content-inner .cs-timer .item .nbr-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .page-title .nbr-timer {
@@ -4615,7 +4623,7 @@ fieldset[disabled] .form-control:hover {
 .team-3col .t-item .t-image .t-description, .team-4col .t-item .t-image .t-description, .freelancer-about .t-item .t-image .t-description {
   display: block;
   position: absolute;
-  padding: 100px 30px 30px 30px;
+  padding: 1.2em 1em 1em 1em;
   bottom: -100%;
   left: 0;
   height: 100%;
