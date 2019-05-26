@@ -1912,7 +1912,7 @@ fieldset[disabled] .form-control:hover {
 	7.0 Footers
 -------------------------------------------------- */
 .copyright {
-  background: #222;
+  background: #329ab5 !important;
   padding-top: 20px;
   padding-bottom: 20px;
 }
