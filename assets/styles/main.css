@@ -3001,13 +3001,13 @@ fieldset[disabled] .form-control:hover {
 
 .ft-cards-2 .ft-card-item .ft-content {
   display: inline-block;
-  padding: 50px 40px;
-  width: 56%;
+  padding: 1.5em 1.5em;
+  width: 50%;
 }
 
 .ft-cards-2 .ft-card-item .ft-content h5, .ft-cards-2 .ft-card-item .ft-content .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .ft-cards-2 .ft-card-item .ft-content .ft-heading, .ft-cards-2 .ft-card-item .ft-content .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .ft-cards-2 .ft-card-item .ft-content .tab-info, .ft-cards-2 .ft-card-item .ft-content .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .ft-cards-2 .ft-card-item .ft-content .widget-comm-title, .ft-cards-2 .ft-card-item .ft-content .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .ft-cards-2 .ft-card-item .ft-content .title-timer, .ft-cards-2 .ft-card-item .ft-content .shop-layout-options span, .shop-layout-options .ft-cards-2 .ft-card-item .ft-content span {
   margin: 0;
-  padding-bottom: 20px;
+  padding-bottom: 1em;
 }
 
 .ft-cards-2 .ft-card-item .ft-content p {
@@ -3757,14 +3757,20 @@ fieldset[disabled] .form-control:hover {
   opacity: 1;
 }
 
-.ft-hover-item .ft-1, .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580);
+.ft-hover-item .ft-1 {
+  background: #ccc url(/assets/images/EEG_normal_brain.jpg);
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
           transition: background-size 0.3s;
 }
-
+.ft-hover-item .ft-2 {
+  background: #ccc url(/assets/images/EEG_on_LuciaNo3.jpg);
+  background-size: 100%;
+  background-position: 50%;
+  -webkit-transition: background-size 0.3s;
+          transition: background-size 0.3s;
+}
 .ft-hover-item .ft-1 .bg-overlay, .ft-hover-item .ft-2 .bg-overlay {
   content: '';
   position: absolute;
@@ -3778,7 +3784,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580/999/eee);
+  background: #ccc url(/assets/images/EEG_on_LuciaNo3.jpg);
   background-size: 100%;
   background-position: 50%;
 }
