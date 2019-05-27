@@ -1879,7 +1879,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-plax-lg-dark {
-  background: url(http://placehold.it/2440x1280);
+  background: url(../../images/bg_pagetitle_dark.jpg);
   background-size: cover;
 }
 
@@ -3766,14 +3766,14 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-1 {
-  background: #ccc url(/assets/images/EEG_normal_brain.jpg);
+  background: #ccc url(http://1000petals.in/assets/images/EEG_normal_brain.jpg);
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
           transition: background-size 0.3s;
 }
 .ft-hover-item .ft-2 {
-  background: #ccc url(/assets/images/EEG_on_LuciaNo3.jpg);
+  background: #ccc url((http://1000petals.in/assets/images/EEG_on_LuciaNo3.jpg);
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
@@ -3920,7 +3920,7 @@ fieldset[disabled] .form-control:hover {
 
 .ft-big-img-right .ft-img-container .ft-img {
   position: relative;
-  right: -35%;
+  right: -21%;
 }
 
 .ft-big-img-right .ft-content {
@@ -4618,6 +4618,7 @@ fieldset[disabled] .form-control:hover {
   position: relative;
   height: 375px;
   overflow: hidden;
+  padding-top: 27%;
 }
 
 .team-3col .t-item .t-image .t-description, .team-4col .t-item .t-image .t-description, .freelancer-about .t-item .t-image .t-description {
@@ -4649,6 +4650,7 @@ fieldset[disabled] .form-control:hover {
 
 .team-3col .t-item .t-info, .team-4col .t-item .t-info, .freelancer-about .t-item .t-info {
   padding: 25px 30px;
+  background-color: #ececec;
 }
 
 .team-3col .t-item .t-info h4, .team-4col .t-item .t-info h4, .freelancer-about .t-item .t-info h4, .team-3col .t-item .t-info .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .team-3col .t-item .t-info .tab-heading, .team-4col .t-item .t-info .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .team-4col .t-item .t-info .tab-heading, .freelancer-about .t-item .t-info .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .freelancer-about .t-item .t-info .tab-heading, .team-3col .testimonials-3col .t-item .t-info blockquote footer cite, .testimonials-3col .team-3col .t-item .t-info blockquote footer cite, .team-3col .testimonials-3col .t-item blockquote footer .t-info cite, .testimonials-3col .team-3col .t-item blockquote footer .t-info cite, .team-4col .testimonials-3col .t-item .t-info blockquote footer cite, .testimonials-3col .team-4col .t-item .t-info blockquote footer cite, .team-4col .testimonials-3col .t-item blockquote footer .t-info cite, .testimonials-3col .team-4col .t-item blockquote footer .t-info cite, .freelancer-about .testimonials-3col .t-item .t-info blockquote footer cite, .testimonials-3col .freelancer-about .t-item .t-info blockquote footer cite, .freelancer-about .testimonials-3col .t-item blockquote footer .t-info cite, .testimonials-3col .freelancer-about .t-item blockquote footer .t-info cite, .team-3col .testimonials-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .team-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .team-3col .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .testimonials-3col .team-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .team-4col .testimonials-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .team-4col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .team-4col .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .testimonials-3col .team-4col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .freelancer-about .testimonials-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .freelancer-about .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .freelancer-about .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .testimonials-3col .freelancer-about .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .team-3col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .t-info .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-3col .t-item .t-info .info-404 footer cite, .team-3col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .t-info cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-3col .t-item .info-404 footer .t-info cite, .team-4col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .t-info .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-4col .t-item .t-info .info-404 footer cite, .team-4col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .t-info cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-4col .t-item .info-404 footer .t-info cite, .freelancer-about .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .t-info .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .freelancer-about .t-item .t-info .info-404 footer cite, .freelancer-about .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .t-info cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .freelancer-about .t-item .info-404 footer .t-info cite, .team-3col .testimonials-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .team-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .team-3col .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .testimonials-3col .team-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .team-4col .testimonials-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .team-4col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .team-4col .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .testimonials-3col .team-4col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .freelancer-about .testimonials-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .freelancer-about .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .freelancer-about .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .testimonials-3col .freelancer-about .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .team-3col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item .t-info p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-3col .t-item .t-info p footer cite, .team-3col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .t-info cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-3col .t-item p footer .t-info cite, .team-4col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item .t-info p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-4col .t-item .t-info p footer cite, .team-4col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .t-info cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-4col .t-item p footer .t-info cite, .freelancer-about .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item .t-info p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .freelancer-about .t-item .t-info p footer cite, .freelancer-about .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .t-info cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .freelancer-about .t-item p footer .t-info cite, .team-3col .t-item .t-info .t-role, .team-4col .t-item .t-info .t-role, .freelancer-about .t-item .t-info .t-role, .team-3col .t-item .t-info .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .team-3col .t-item .t-info .cards-header, .team-4col .t-item .t-info .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .team-4col .t-item .t-info .cards-header, .freelancer-about .t-item .t-info .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .freelancer-about .t-item .t-info .cards-header, .team-3col .t-item .t-info .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .team-3col .t-item .t-info .sc-lead, .team-4col .t-item .t-info .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .team-4col .t-item .t-info .sc-lead, .freelancer-about .t-item .t-info .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .freelancer-about .t-item .t-info .sc-lead {
@@ -8185,7 +8187,7 @@ form .input-error-2:focus {
 
 /* ---- 20.9 Animated Heading ---- */
 .animated-hero {
-  background: url(../../images/slider/lucia2.jpg);
+  background: url(../images/slider/chakra2.jpg);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
