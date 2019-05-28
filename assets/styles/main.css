@@ -42,7 +42,7 @@ hr {
 
 /* ---- Backgrounds ---- */
 .dark-bg {
-  background: #111;
+  background: #003858;
 }
 
 .dark-bg h1,
@@ -73,7 +73,7 @@ hr {
 .dark-bg .progress-group .progress-value, .progress-group .dark-bg .progress-value, .dark-bg .accordions-1 .panel .panel-heading .panel-title, .accordions-1 .panel .panel-heading .dark-bg .panel-title, .dark-bg .footer-social-links ul li, .footer-social-links ul .dark-bg li, .dark-bg .footer-contact .contact-info .show-info-link, .footer-contact .contact-info .dark-bg .show-info-link, .dark-bg .footer-contact .contact-info address ul li .adr-heading, .footer-contact .contact-info address ul li .dark-bg .adr-heading, .dark-bg .footer-contact .contact-info address .show-map, .footer-contact .contact-info address .dark-bg .show-map, .dark-bg .footer-litle address ul li .adr-group .adr-heading, .footer-litle address ul li .adr-group .dark-bg .adr-heading, .dark-bg .ft-cards .ft-item a, .ft-cards .ft-item .dark-bg a, .dark-bg .ft-cards-2 .ft-card-item .ft-content .link-btn, .ft-cards-2 .ft-card-item .ft-content .dark-bg .link-btn, .dark-bg .ft-boxed-hover ul li .hover-content a, .ft-boxed-hover ul li .hover-content .dark-bg a, .dark-bg .circles-counters .circle-item .circle-text, .circles-counters .circle-item .dark-bg .circle-text, .dark-bg .circles-counters-dark-bg .circle-item .circle-text, .circles-counters-dark-bg .circle-item .dark-bg .circle-text, .dark-bg .number-counters .count-wrapper .count-item .count-text, .number-counters .count-wrapper .count-item .dark-bg .count-text, .dark-bg .number-counters-dark-bg .count-wrapper .count-item .count-text, .number-counters-dark-bg .count-wrapper .count-item .dark-bg .count-text, .dark-bg .project-nav nav .nav-btns li a, .project-nav nav .nav-btns li .dark-bg a, .dark-bg .pricing-tables .p-table .desc, .pricing-tables .p-table .dark-bg .desc, .dark-bg .blog-post-nav .prev-btn, .blog-post-nav .dark-bg .prev-btn,
 .dark-bg .blog-post-nav .next-btn, .blog-post-nav .dark-bg .next-btn, .dark-bg .sidebar .tags-widget .tag-list li a, .sidebar .tags-widget .tag-list li .dark-bg a, .dark-bg .contact-1 .contact-wrapper .contact-info-wrapper address .address-group span, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .dark-bg span, .dark-bg .contact-1 .contact-wrapper .contact-info-wrapper address .address-group a, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .dark-bg a,
 .dark-bg .contact-1 .contact-wrapper .contact-info-wrapper address .address-group p, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .dark-bg p, .dark-bg .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a, .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link .dark-bg a, .dark-bg .landing-hero .heading-wrapper .cta-btn, .landing-hero .heading-wrapper .dark-bg .cta-btn, .dark-bg .shop-sidebar .filter-widget label, .shop-sidebar .filter-widget .dark-bg label, .dark-bg .shop-sidebar-vertical .filter-widget label, .shop-sidebar-vertical .filter-widget .dark-bg label, .dark-bg .shop-sidebar .tags-widget .tag-list li a, .shop-sidebar .tags-widget .tag-list li .dark-bg a, .dark-bg .shop-sidebar-vertical .tags-widget .tag-list li a, .shop-sidebar-vertical .tags-widget .tag-list li .dark-bg a, .dark-bg .checkout-table tbody tr td:first-child, .checkout-table tbody tr .dark-bg td:first-child, .dark-bg .prod-reviews .tp-review .tpr-name, .prod-reviews .tp-review .dark-bg .tpr-name {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .dark-bg .subheading {
@@ -980,8 +980,8 @@ hr {
 
 .info-slider .slick-prev:hover,
 .info-slider .slick-next:hover {
-  color: #ececec;
-  border-color: #ececec;
+  color: #bee5f0;
+  border-color: #bee5f0;
 }
 
 .info-slider .slick-prev {
@@ -999,7 +999,7 @@ hr {
   padding: 12px 15px;
   top: 100px;
   right: -108px;
-  color: #ececec;
+  color: #bee5f0;
   background: #111;
   font-size: 11px;
   letter-spacing: 1.8px;
@@ -1025,7 +1025,7 @@ hr {
   padding-right: 15px;
   font-size: 18px;
   vertical-align: middle;
-  border-right: 1px solid #ececec;
+  border-right: 1px solid #bee5f0;
 }
 
 .quick-link-btns .quick-btn span {
@@ -1104,7 +1104,7 @@ h6, .progress-group .progress-title,
 .dropcaps:first-child:first-letter {
   padding: 6px 13px;
   margin-right: 3px;
-  background: #ececec;
+  background: #bee5f0;
   color: #111;
   font-weight: 700;
   font-size: 23px;
@@ -1277,8 +1277,8 @@ blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 fo
   position: relative;
   display: inline-block;
   padding: 8px 38px;
-  background: #111;
-  color: #ececec;
+  background: #bee5f0;
+  color: #bee5f0;
   font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2.5px;
@@ -1290,30 +1290,30 @@ blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 fo
 }
 
 .btn:visited, .btn-ghost:visited, .btn-ghost-light:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:visited, .btn-text:visited, .btn-text-light:visited, .btn-light:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:visited {
-  color: #ececec;
-  background: #111;
+  color: #bee5f0;
+  background: #337ab7;
 }
 
 .btn:visited:hover, .btn-ghost:visited:hover, .btn-ghost-light:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:visited:hover, .btn-text:visited:hover, .btn-text-light:visited:hover, .btn-light:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:visited:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: #3f3f3f;
 }
 
 .btn:hover, .btn-ghost:hover, .btn-ghost-light:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover, .btn-text:hover, .btn-text-light:hover, .btn-light:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: #3f3f3f;
 }
 
 .btn:focus, .btn-ghost:focus, .btn-ghost-light:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:focus, .btn-text:focus, .btn-text-light:focus, .btn-light:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:focus {
-  color: #ececec;
+  color: #bee5f0;
   outline: none;
 }
 
 /* ---- 2.2 Ghost Buttons ---- */
 .btn-ghost, .btn-ghost-light, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light {
   background: none;
-  color: #111;
-  border: 2px solid #111;
+  color: #337ab7;
+  border: 2px solid #bee5f0;
   overflow: hidden;
   z-index: 1;
 }
@@ -1321,7 +1321,7 @@ blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 fo
 .btn-ghost:after, .btn-ghost-light:after, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:after {
   content: '';
   position: absolute;
-  background: #111;
+  background: #bee5f0;
   left: 0;
   top: 100%;
   width: 100%;
@@ -1340,12 +1340,12 @@ blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 fo
 }
 
 .btn-ghost:hover, .btn-ghost-light:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: none;
 }
 
 .btn-ghost:hover:visited, .btn-ghost-light:hover:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover:visited {
-  color: #ececec;
+  color: #bee5f0;
   text-decoration: none;
 }
 
@@ -1354,7 +1354,7 @@ blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 fo
 }
 
 input[class="btn-ghost"]:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: #111;
 }
 
@@ -1412,22 +1412,22 @@ input[class="btn-ghost"]:after {
 /* ---- 2.6 Light Buttons ---- */
 .btn-light {
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .btn-light:visited {
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .btn-light:visited:hover {
   color: #111;
-  background: #bebebe;
+  background: #bee5ff;
 }
 
 .btn-light:hover {
   color: #111;
-  background: #bebebe;
+  background: #bee5ff;
 }
 
 .btn-light:focus {
@@ -1436,12 +1436,12 @@ input[class="btn-ghost"]:after {
 
 .btn-ghost-light {
   z-index: 1;
-  border-color: #ececec;
-  color: #ececec;
+  border-color: #bee5f0;
+  color: #bee5f0;
 }
 
 .btn-ghost-light:after {
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .btn-ghost-light:hover {
@@ -1453,7 +1453,7 @@ input[class="btn-ghost"]:after {
 }
 
 .btn-ghost-light:visited {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 input[class="btn-ghost-light"] {
@@ -1463,7 +1463,7 @@ input[class="btn-ghost-light"] {
 input[class="btn-ghost-light"]:hover {
   z-index: 1;
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .btn-text-light {
@@ -1471,17 +1471,17 @@ input[class="btn-ghost-light"]:hover {
 }
 
 .btn-text-light:visited:hover {
-  color: #ececec;
+  color: #bee5f0;
   border: 2px solid #ebebeb;
 }
 
 .btn-text-light:hover {
-  color: #ececec;
+  color: #bee5f0;
   border: 2px solid #ebebeb;
 }
 
 .btn-text-light:focus {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 /* ---- 2.7 Pagination ---- */
@@ -1593,7 +1593,7 @@ fieldset[disabled] .form-control:hover {
   margin-bottom: 5px;
   border-radius: 0;
   box-shadow: none;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .progress .progress-bar {
@@ -1762,7 +1762,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .breadcrumb li a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .breadcrumb li + li:before {
@@ -1811,7 +1811,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-dark h1, .pt-dark .comingsoon .content-wrapper .content-inner .cs-timer .item .nbr-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .pt-dark .nbr-timer {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .pt-dark .breadcrumb li a {
@@ -1819,7 +1819,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-dark .breadcrumb li a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .pt-dark .breadcrumb .active {
@@ -1925,7 +1925,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .copyright small a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .copyright small a:focus {
@@ -1967,7 +1967,7 @@ fieldset[disabled] .form-control:hover {
 
 .footer-social-links ul li a {
   display: block;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .footer-social-links ul li a:hover {
@@ -1991,7 +1991,7 @@ fieldset[disabled] .form-control:hover {
   padding-bottom: 17px;
   margin-bottom: 25px;
   border-bottom: 1px solid rgba(204, 204, 204, 0.2);
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .footer-widgets .widget p {
@@ -2017,7 +2017,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .footer-widgets .about-widget .social-links li a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .footer-widgets .gallery-widget ul {
@@ -2062,7 +2062,7 @@ fieldset[disabled] .form-control:hover {
 .footer-widgets .gallery-widget ul li a .hover-link span {
   display: block;
   padding-top: 20px;
-  color: #ececec;
+  color: #bee5f0;
   font-size: 50px;
   opacity: 0;
   -webkit-transition: opacity 0.4s;
@@ -2180,7 +2180,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .footer-widgets .newsletter-widget form .form-group button:hover {
-  background: #ececec;
+  background: #bee5f0;
   color: #111;
 }
 
@@ -2216,7 +2216,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .footer-contact .contact-info .show-info-link:hover {
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .footer-contact .contact-info .show-info-link:focus {
@@ -2266,7 +2266,7 @@ fieldset[disabled] .form-control:hover {
 
 .footer-contact .contact-info address ul li .adr-heading {
   display: block;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .footer-contact .contact-info address ul li .adr-info {
@@ -2280,7 +2280,7 @@ fieldset[disabled] .form-control:hover {
   display: block;
   position: absolute;
   bottom: 100px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .footer-contact .contact-info address .show-map span {
@@ -2372,7 +2372,7 @@ fieldset[disabled] .form-control:hover {
 .navbar {
   margin-bottom: 0;
   min-height: 75px;
-  border-bottom: 1px solid #ececec;
+  border-bottom: 1px solid #bee5f0;
   border-radius: 0;
   background: #fff;
 }
@@ -2461,7 +2461,7 @@ fieldset[disabled] .form-control:hover {
 .navbar .navbar-nav .dropdown .dropdown-menu {
   margin-top: 12px;
   padding: 20px 0 10px 0;
-  border: 1px solid #ececec;
+  border: 1px solid #bee5f0;
   border-radius: 0;
   box-shadow: none;
   background: rgba(255, 255, 255, 0.93);
@@ -2630,7 +2630,7 @@ fieldset[disabled] .form-control:hover {
   display: inline-block;
   padding: 8px 38px;
   background: #111;
-  color: #ececec;
+  color: #bee5f0;
   font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2.5px;
@@ -2642,23 +2642,23 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text-light:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:visited {
-  color: #ececec;
+  color: #bee5f0;
   background: #111;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text-light:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:visited:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:visited:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: #3f3f3f;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text-light:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: #3f3f3f;
   border-color: #3f3f3f;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-text-light:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:focus, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:focus {
-  color: #ececec;
+  color: #bee5f0;
   outline: none;
 }
 
@@ -2691,12 +2691,12 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:hover, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: none;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost:hover:visited, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover:visited {
-  color: #ececec;
+  color: #bee5f0;
   text-decoration: none;
 }
 
@@ -2706,23 +2706,23 @@ fieldset[disabled] .form-control:hover {
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light {
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:visited {
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:visited:hover {
   color: #111;
-  background: #bebebe;
+  background: #bee5ff;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:hover {
   color: #111;
-  background: #bebebe;
-  border-color: #bebebe;
+  background: #bee5ff;
+  border-color: #bee5ff;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light:focus {
@@ -2731,17 +2731,17 @@ fieldset[disabled] .form-control:hover {
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light {
   z-index: 1;
-  border-color: #ececec;
-  color: #ececec;
+  border-color: #bee5f0;
+  color: #bee5f0;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:after {
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover {
   color: #111;
-  border-color: #ececec;
+  border-color: #bee5f0;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:hover:visited {
@@ -2749,7 +2749,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light:visited {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar .navbar-nav .dropdown .dropdown-banner {
@@ -2767,11 +2767,11 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-inverse .navbar-nav li a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-inverse .navbar-nav .active a {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-inverse .navbar-nav .dropdown .dropdown-menu {
@@ -2781,11 +2781,11 @@ fieldset[disabled] .form-control:hover {
 
 .navbar-inverse .navbar-nav .dropdown .dropdown-menu li a:hover {
   background: rgba(255, 255, 255, 0.1);
-  border-left: 3px solid #ececec;
+  border-left: 3px solid #bee5f0;
 }
 
 .navbar-inverse .navbar-nav .dropdown .dropdown-menu .dropdown-header {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-inverse .navbar-nav .dropdown .dropdown-menu .divider {
@@ -2797,15 +2797,15 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-inverse .navbar-nav .dropdown .cart-dropdown .cart-item .cart-remove-btn:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-inverse .navbar-nav .dropdown .cart-dropdown .item-totals {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-inverse .navbar-nav .dropdown .search-dropdown li form input[type="search"]:focus {
-  border-color: #ececec;
+  border-color: #bee5f0;
 }
 
 /* ---- Mega Menu ---- */
@@ -2851,15 +2851,15 @@ fieldset[disabled] .form-control:hover {
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav li a:focus,
 .navbar-trans:not(.navbar-inverse) .navbar-nav li a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav .active a {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav .active a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav .dropdown .dropdown-menu li a:hover {
@@ -2867,7 +2867,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav .open .dropdown-toggle {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .navbar-trans-dark .navbar-nav > li > a:focus,
@@ -3145,8 +3145,8 @@ fieldset[disabled] .form-control:hover {
 .ft-centered .ft-circle-frame:hover span,
 .ft-x .ft-circle-frame:hover span,
 .ft-y .ft-circle-frame:hover span, .ft-centered .ft-square-frame:hover span, .ft-x .ft-square-frame:hover span, .ft-y .ft-square-frame:hover span, .ft-centered .ft-circle-frame-dark:hover span, .ft-x .ft-circle-frame-dark:hover span, .ft-y .ft-circle-frame-dark:hover span, .ft-centered .ft-square-frame-dark:hover span, .ft-x .ft-square-frame-dark:hover span, .ft-y .ft-square-frame-dark:hover span, .ft-centered .ft-circle-frame:hover i, .ft-x .ft-circle-frame:hover i, .ft-y .ft-circle-frame:hover i, .ft-centered .ft-square-frame:hover i, .ft-x .ft-square-frame:hover i, .ft-y .ft-square-frame:hover i, .ft-centered .ft-circle-frame-dark:hover i, .ft-x .ft-circle-frame-dark:hover i, .ft-y .ft-circle-frame-dark:hover i, .ft-centered .ft-square-frame-dark:hover i, .ft-x .ft-square-frame-dark:hover i, .ft-y .ft-square-frame-dark:hover i {
-  border-color: #ececec;
-  box-shadow: 0 0 0 0 #ececec;
+  border-color: #bee5f0;
+  box-shadow: 0 0 0 0 #bee5f0;
 }
 
 .ft-centered .ft-circle-frame span,
@@ -3154,9 +3154,9 @@ fieldset[disabled] .form-control:hover {
 .ft-y .ft-circle-frame span, .ft-centered .ft-square-frame span, .ft-x .ft-square-frame span, .ft-y .ft-square-frame span, .ft-centered .ft-circle-frame-dark span, .ft-x .ft-circle-frame-dark span, .ft-y .ft-circle-frame-dark span, .ft-centered .ft-square-frame-dark span, .ft-x .ft-square-frame-dark span, .ft-y .ft-square-frame-dark span, .ft-centered .ft-circle-frame i, .ft-x .ft-circle-frame i, .ft-y .ft-circle-frame i, .ft-centered .ft-square-frame i, .ft-x .ft-square-frame i, .ft-y .ft-square-frame i, .ft-centered .ft-circle-frame-dark i, .ft-x .ft-circle-frame-dark i, .ft-y .ft-circle-frame-dark i, .ft-centered .ft-square-frame-dark i, .ft-x .ft-square-frame-dark i, .ft-y .ft-square-frame-dark i {
   display: inline-block;
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
   border: 5px solid white;
-  box-shadow: 0 0 0 1px #ececec;
+  box-shadow: 0 0 0 1px #bee5f0;
   border-radius: 100px;
   line-height: 102px;
   -webkit-transition: all 0.5s;
@@ -3270,7 +3270,7 @@ fieldset[disabled] .form-control:hover {
   display: inline-block;
   color: #111;
   border-radius: 100px;
-  background: #ececec;
+  background: #bee5f0;
   border: 10px solid #f4f4f4;
   line-height: 90px;
   -webkit-transition: all 0.3s;
@@ -3447,7 +3447,7 @@ fieldset[disabled] .form-control:hover {
   display: block;
   margin: 0;
   padding-bottom: 15px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .ft-boxed-hover ul li .hover-content p {
@@ -3464,7 +3464,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-boxed-hover ul li .hover-content a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .ft-boxed-hover ul li .hover-content a:focus {
@@ -3479,8 +3479,8 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-tabs .tabs-list li {
-  border-top: 1px solid #ececec;
-  border-bottom: 1px solid #ececec;
+  border-top: 1px solid #bee5f0;
+  border-bottom: 1px solid #bee5f0;
 }
 
 .ft-tabs .tabs-list li:nth-child(2),
@@ -3599,7 +3599,7 @@ fieldset[disabled] .form-control:hover {
   padding-top: 12px;
   width: 50px;
   height: 50px;
-  background: #ececec;
+  background: #bee5f0;
   font-size: 35px;
   text-align: center;
 }
@@ -3694,7 +3694,7 @@ fieldset[disabled] .form-control:hover {
       -ms-transform: translateY(-44%);
           transform: translateY(-44%);
   text-align: center;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn h5, .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .ft-heading, .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .tab-info, .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .widget-comm-title, .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .title-timer, .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn .shop-layout-options span, .shop-layout-options .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper .play-btn span {
@@ -3736,13 +3736,13 @@ fieldset[disabled] .form-control:hover {
 .login-2 .bg-overlay .form-wrapper .social-signup .social-card .ft-hover-item .ft-item .content-wrapper .sc-lead, .ft-hover-item .ft-item .content-wrapper h5, .ft-hover-item .ft-item .content-wrapper .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .ft-hover-item .ft-item .content-wrapper .ft-heading, .ft-hover-item .ft-item .content-wrapper .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .ft-hover-item .ft-item .content-wrapper .tab-info, .ft-hover-item .ft-item .content-wrapper .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .ft-hover-item .ft-item .content-wrapper .widget-comm-title, .ft-hover-item .ft-item .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer, .comingsoon .ft-hover-item .ft-item .content-wrapper .content-inner .cs-timer .item .title-timer, .ft-hover-item .ft-item .content-wrapper .shop-layout-options span, .shop-layout-options .ft-hover-item .ft-item .content-wrapper span {
   margin: 0;
   padding-bottom: 20px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .ft-hover-item .ft-item .content-wrapper p {
   margin: 0;
   padding-bottom: 45px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .ft-hover-item .ft-item .content-wrapper .ft-button {
@@ -3866,7 +3866,7 @@ fieldset[disabled] .form-control:hover {
 .sidebar .comments-widget .widget-item span .video-bg-section .video-sec-content .widget-comm-title, .video-bg-section .video-sec-content .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer,
 .comingsoon .content-wrapper .content-inner .cs-timer .item .video-bg-section .video-sec-content .title-timer, .video-bg-section .video-sec-content .shop-layout-options span,
 .shop-layout-options .video-bg-section .video-sec-content span, .video-bg-section .video-sec-content span {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .video-bg-section .video-sec-content .cta-lead {
@@ -4006,7 +4006,7 @@ fieldset[disabled] .form-control:hover {
 
 /* ---- 9.16 Utiliy Classes ---- */
 .ft-icon-white {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .ft-icon-gray {
@@ -4056,11 +4056,11 @@ fieldset[disabled] .form-control:hover {
   right: 0;
   margin: auto;
   font-size: 64px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .circles-counters .circle-item .circle-text, .circles-counters-dark-bg .circle-item .circle-text {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .circles-counters-dark-bg {
@@ -4102,11 +4102,11 @@ fieldset[disabled] .form-control:hover {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 65px;
   font-weight: lighter;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .number-counters .count-wrapper .count-item .count-text, .number-counters-dark-bg .count-wrapper .count-item .count-text {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .number-counters-dark-bg {
@@ -4119,7 +4119,7 @@ fieldset[disabled] .form-control:hover {
 .box {
   width: 60px;
   height: 60px;
-  background: #ececec;
+  background: #bee5f0;
   text-align: center;
 }
 
@@ -4135,7 +4135,7 @@ fieldset[disabled] .form-control:hover {
   height: 12px;
   width: 12px;
   vertical-align: middle;
-  border: 2px solid #ececec;
+  border: 2px solid #bee5f0;
   border-radius: 100px;
   -webkit-transition: all 0.3s;
           transition: all 0.3s;
@@ -4146,13 +4146,13 @@ fieldset[disabled] .form-control:hover {
 }
 
 .slick-dots li:hover {
-  background: #ececec;
+  background: #bee5f0;
   cursor: pointer;
 }
 
 .slick-dots .slick-active {
   border: 2px solid rgba(17, 17, 17, 0);
-  background: #ececec;
+  background: #bee5f0;
   height: 12px;
   width: 12px;
 }
@@ -4167,7 +4167,7 @@ fieldset[disabled] .form-control:hover {
   border: none;
   background: #111;
   line-height: 0;
-  color: #ececec;
+  color: #bee5f0;
   -webkit-transition: background 0.3s;
           transition: background 0.3s;
 }
@@ -4228,7 +4228,7 @@ fieldset[disabled] .form-control:hover {
   margin-bottom: 0;
   font-size: 1.4em;
   line-height: 1.6em;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .testimonials-parallax .t-wrapper blockquote .t-type, .testimonials-dark .t-wrapper blockquote .t-type, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 .t-type, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 .t-type, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 .t-type, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 .t-type, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p .t-type, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p .t-type, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p .t-type, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p .t-type {
@@ -4248,7 +4248,7 @@ fieldset[disabled] .form-control:hover {
 
 .testimonials-parallax .t-wrapper blockquote footer cite h5, .testimonials-dark .t-wrapper blockquote footer cite h5, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite h5, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite h5, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite h5, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite h5, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite h5, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite h5, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite h5, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite h5, .testimonials-parallax .t-wrapper blockquote footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .testimonials-parallax .t-wrapper blockquote footer cite .ft-heading, .testimonials-dark .t-wrapper blockquote footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .testimonials-dark .t-wrapper blockquote footer cite .ft-heading, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-heading, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .ft-heading, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-heading, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .ft-heading, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-heading, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .ft-heading, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-heading, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .ft-heading, .testimonials-parallax .t-wrapper blockquote footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .testimonials-parallax .t-wrapper blockquote footer cite .tab-info, .testimonials-dark .t-wrapper blockquote footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .testimonials-dark .t-wrapper blockquote footer cite .tab-info, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .tab-info, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .tab-info, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .tab-info, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .tab-info, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .tab-info, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .tab-info, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .tab-info, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .tab-info, .testimonials-parallax .t-wrapper blockquote footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .testimonials-parallax .t-wrapper blockquote footer cite .widget-comm-title, .testimonials-dark .t-wrapper blockquote footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .testimonials-dark .t-wrapper blockquote footer cite .widget-comm-title, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .widget-comm-title, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .widget-comm-title, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .widget-comm-title, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .widget-comm-title, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .widget-comm-title, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .widget-comm-title, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .widget-comm-title, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .widget-comm-title, .testimonials-parallax .t-wrapper blockquote footer cite .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-parallax .t-wrapper blockquote footer cite .title-timer, .testimonials-dark .t-wrapper blockquote footer cite .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-dark .t-wrapper blockquote footer cite .title-timer, .testimonials-parallax .t-wrapper .wrapper-404 .comingsoon .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .comingsoon .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .testimonials-parallax .t-wrapper .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer, .comingsoon .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer, .wrapper-404 .comingsoon .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .comingsoon .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .title-timer, .comingsoon .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .title-timer, .testimonials-dark .t-wrapper .wrapper-404 .comingsoon .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .comingsoon .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .testimonials-dark .t-wrapper .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer, .comingsoon .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer, .wrapper-404 .comingsoon .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .comingsoon .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer, .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .title-timer, .comingsoon .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .title-timer, .testimonials-parallax .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer, .comingsoon .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer, .testimonials-parallax .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer, .comingsoon .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer, .bg-maintenance .comingsoon .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .cs-timer .item .title-timer, .comingsoon .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .cs-timer .item .title-timer, .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-parallax .t-wrapper p footer cite .title-timer, .comingsoon .bg-maintenance .content-wrapper .content-inner .cs-timer .item .testimonials-parallax .t-wrapper p footer cite .title-timer, .testimonials-dark .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer, .comingsoon .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer, .testimonials-dark .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer, .comingsoon .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer, .bg-maintenance .comingsoon .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .cs-timer .item .title-timer, .comingsoon .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .cs-timer .item .title-timer, .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-dark .t-wrapper p footer cite .title-timer, .comingsoon .bg-maintenance .content-wrapper .content-inner .cs-timer .item .testimonials-dark .t-wrapper p footer cite .title-timer, .testimonials-parallax .t-wrapper blockquote footer cite .shop-layout-options span, .shop-layout-options .testimonials-parallax .t-wrapper blockquote footer cite span, .testimonials-dark .t-wrapper blockquote footer cite .shop-layout-options span, .shop-layout-options .testimonials-dark .t-wrapper blockquote footer cite span, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .shop-layout-options span, .shop-layout-options .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite span, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .shop-layout-options span, .shop-layout-options .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite span, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .shop-layout-options span, .shop-layout-options .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite span, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .shop-layout-options span, .shop-layout-options .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite span, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .shop-layout-options span, .shop-layout-options .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite span, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .shop-layout-options span, .shop-layout-options .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite span, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .shop-layout-options span, .shop-layout-options .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite span, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .shop-layout-options span, .shop-layout-options .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite span {
   margin: 0;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .testimonials-parallax .t-wrapper blockquote footer cite h5:first-child, .testimonials-dark .t-wrapper blockquote footer cite h5:first-child, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite h5:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite h5:first-child, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite h5:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite h5:first-child, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite h5:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite h5:first-child, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite h5:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite h5:first-child, .testimonials-parallax .t-wrapper blockquote footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .testimonials-parallax .t-wrapper blockquote footer cite .ft-heading:first-child, .testimonials-dark .t-wrapper blockquote footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .testimonials-dark .t-wrapper blockquote footer cite .ft-heading:first-child, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-heading:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .ft-heading:first-child, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-heading:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .ft-heading:first-child, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-heading:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .ft-heading:first-child, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-heading:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .ft-boxed-hover ul li .hover-content .ft-heading:first-child, .ft-boxed-hover ul li .hover-content .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .ft-heading:first-child, .testimonials-parallax .t-wrapper blockquote footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .testimonials-parallax .t-wrapper blockquote footer cite .tab-info:first-child, .testimonials-dark .t-wrapper blockquote footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .testimonials-dark .t-wrapper blockquote footer cite .tab-info:first-child, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .tab-info:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .tab-info:first-child, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .tab-info:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .tab-info:first-child, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .tab-info:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .tab-info:first-child, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .tab-info:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .ft-tabs .tabs-list li a .tab-group .tab-info:first-child, .ft-tabs .tabs-list li a .tab-group .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .tab-info:first-child, .testimonials-parallax .t-wrapper blockquote footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .testimonials-parallax .t-wrapper blockquote footer cite .widget-comm-title:first-child, .testimonials-dark .t-wrapper blockquote footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .testimonials-dark .t-wrapper blockquote footer cite .widget-comm-title:first-child, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .widget-comm-title:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .widget-comm-title:first-child, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .widget-comm-title:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .widget-comm-title:first-child, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .widget-comm-title:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .widget-comm-title:first-child, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .widget-comm-title:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .sidebar .comments-widget .widget-item span .widget-comm-title:first-child, .sidebar .comments-widget .widget-item span .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .widget-comm-title:first-child, .testimonials-parallax .t-wrapper blockquote footer cite .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer:first-child, .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-parallax .t-wrapper blockquote footer cite .title-timer:first-child, .testimonials-dark .t-wrapper blockquote footer cite .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer:first-child, .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-dark .t-wrapper blockquote footer cite .title-timer:first-child, .testimonials-parallax .t-wrapper .wrapper-404 .comingsoon .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .comingsoon .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .testimonials-parallax .t-wrapper .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer:first-child, .comingsoon .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer:first-child, .wrapper-404 .comingsoon .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .comingsoon .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .title-timer:first-child, .comingsoon .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .title-timer:first-child, .testimonials-dark .t-wrapper .wrapper-404 .comingsoon .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .comingsoon .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .testimonials-dark .t-wrapper .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer:first-child, .comingsoon .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .info-404 footer cite .title-timer:first-child, .wrapper-404 .comingsoon .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .comingsoon .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .content-inner .cs-timer .item .title-timer:first-child, .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .title-timer:first-child, .comingsoon .wrapper-404 .content-wrapper .content-inner .cs-timer .item .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .title-timer:first-child, .testimonials-parallax .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer:first-child, .comingsoon .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer:first-child, .testimonials-parallax .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer:first-child, .comingsoon .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer:first-child, .bg-maintenance .comingsoon .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .cs-timer .item .title-timer:first-child, .comingsoon .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .cs-timer .item .title-timer:first-child, .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-parallax .t-wrapper p footer cite .title-timer:first-child, .comingsoon .bg-maintenance .content-wrapper .content-inner .cs-timer .item .testimonials-parallax .t-wrapper p footer cite .title-timer:first-child, .testimonials-dark .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer:first-child, .comingsoon .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .cs-timer .item .title-timer:first-child, .testimonials-dark .t-wrapper .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer:first-child, .comingsoon .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner .cs-timer .item p footer cite .title-timer:first-child, .bg-maintenance .comingsoon .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .cs-timer .item .title-timer:first-child, .comingsoon .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .cs-timer .item .title-timer:first-child, .bg-maintenance .comingsoon .content-wrapper .content-inner .cs-timer .item .testimonials-dark .t-wrapper p footer cite .title-timer:first-child, .comingsoon .bg-maintenance .content-wrapper .content-inner .cs-timer .item .testimonials-dark .t-wrapper p footer cite .title-timer:first-child, .testimonials-parallax .t-wrapper blockquote footer cite .shop-layout-options span:first-child, .shop-layout-options .testimonials-parallax .t-wrapper blockquote footer cite span:first-child, .testimonials-dark .t-wrapper blockquote footer cite .shop-layout-options span:first-child, .shop-layout-options .testimonials-dark .t-wrapper blockquote footer cite span:first-child, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .shop-layout-options span:first-child, .shop-layout-options .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite span:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite .shop-layout-options span:first-child, .shop-layout-options .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404 footer cite span:first-child, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite .shop-layout-options span:first-child, .shop-layout-options .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite span:first-child, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite .shop-layout-options span:first-child, .shop-layout-options .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404 footer cite span:first-child, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .shop-layout-options span:first-child, .shop-layout-options .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite span:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite .shop-layout-options span:first-child, .shop-layout-options .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p footer cite span:first-child, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite .shop-layout-options span:first-child, .shop-layout-options .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p footer cite span:first-child, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite .shop-layout-options span:first-child, .shop-layout-options .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p footer cite span:first-child {
@@ -4260,7 +4260,7 @@ fieldset[disabled] .form-control:hover {
   position: absolute;
   padding: 7px 7px 0 7px;
   top: 160px;
-  border: 2px solid #ececec;
+  border: 2px solid #bee5f0;
   background: none;
   opacity: 0;
   -webkit-transition: background 0.4s, opacity 0.6s;
@@ -4268,14 +4268,14 @@ fieldset[disabled] .form-control:hover {
 }
 
 .testimonials-parallax .t-wrapper .t-slider-nav span, .testimonials-dark .t-wrapper .t-slider-nav span {
-  color: #ececec;
+  color: #bee5f0;
   font-size: 28px;
   -webkit-transition: color 0.4s;
           transition: color 0.4s;
 }
 
 .testimonials-parallax .t-wrapper .t-slider-nav:hover, .testimonials-dark .t-wrapper .t-slider-nav:hover {
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .testimonials-parallax .t-wrapper .t-slider-nav:hover span, .testimonials-dark .t-wrapper .t-slider-nav:hover span {
@@ -4347,7 +4347,7 @@ fieldset[disabled] .form-control:hover {
 
 .testimonials-3col .t-item img {
   margin-bottom: 30px;
-  border: 8px solid #ececec;
+  border: 8px solid #bee5f0;
   border-radius: 100px;
 }
 
@@ -4453,8 +4453,8 @@ fieldset[disabled] .form-control:hover {
 
 .clients-list-parallax .c-wrapper .clients-slider-nav:hover, .clients-list-minimal .c-wrapper .clients-slider-nav:hover, .clients-list-gray .c-wrapper .clients-slider-nav:hover {
   color: #111;
-  border-color: #ececec;
-  background: #ececec;
+  border-color: #bee5f0;
+  background: #bee5f0;
 }
 
 .clients-list-parallax .c-wrapper .clients-slider-nav:focus, .clients-list-minimal .c-wrapper .clients-slider-nav:focus, .clients-list-gray .c-wrapper .clients-slider-nav:focus {
@@ -4481,7 +4481,7 @@ fieldset[disabled] .form-control:hover {
 
 .clients-list-minimal .c-heading {
   padding-top: 75px;
-  color: #ececec;
+  color: #bee5f0;
   text-align: center;
 }
 
@@ -4496,7 +4496,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .clients-list-gray {
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .clients-list-gray .c-wrapper {
@@ -4511,7 +4511,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .clients-list-gray .c-wrapper .clients-slider-nav:hover {
-  color: #ececec;
+  color: #bee5f0;
   border-color: #111;
   background: #111;
 }
@@ -4650,7 +4650,7 @@ fieldset[disabled] .form-control:hover {
 
 .team-3col .t-item .t-info, .team-4col .t-item .t-info, .freelancer-about .t-item .t-info {
   padding: 25px 30px;
-  background-color: #ececec;
+  background-color: #bee5f0;
 }
 
 .team-3col .t-item .t-info h4, .team-4col .t-item .t-info h4, .freelancer-about .t-item .t-info h4, .team-3col .t-item .t-info .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .team-3col .t-item .t-info .tab-heading, .team-4col .t-item .t-info .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .team-4col .t-item .t-info .tab-heading, .freelancer-about .t-item .t-info .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .freelancer-about .t-item .t-info .tab-heading, .team-3col .testimonials-3col .t-item .t-info blockquote footer cite, .testimonials-3col .team-3col .t-item .t-info blockquote footer cite, .team-3col .testimonials-3col .t-item blockquote footer .t-info cite, .testimonials-3col .team-3col .t-item blockquote footer .t-info cite, .team-4col .testimonials-3col .t-item .t-info blockquote footer cite, .testimonials-3col .team-4col .t-item .t-info blockquote footer cite, .team-4col .testimonials-3col .t-item blockquote footer .t-info cite, .testimonials-3col .team-4col .t-item blockquote footer .t-info cite, .freelancer-about .testimonials-3col .t-item .t-info blockquote footer cite, .testimonials-3col .freelancer-about .t-item .t-info blockquote footer cite, .freelancer-about .testimonials-3col .t-item blockquote footer .t-info cite, .testimonials-3col .freelancer-about .t-item blockquote footer .t-info cite, .team-3col .testimonials-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .team-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .team-3col .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .testimonials-3col .team-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .team-4col .testimonials-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .team-4col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .team-4col .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .testimonials-3col .team-4col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .freelancer-about .testimonials-3col .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .freelancer-about .t-item .t-info .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .freelancer-about .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .testimonials-3col .freelancer-about .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-info cite, .team-3col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .t-info .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-3col .t-item .t-info .info-404 footer cite, .team-3col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .t-info cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-3col .t-item .info-404 footer .t-info cite, .team-4col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .t-info .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-4col .t-item .t-info .info-404 footer cite, .team-4col .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .t-info cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .team-4col .t-item .info-404 footer .t-info cite, .freelancer-about .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .t-info .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .freelancer-about .t-item .t-info .info-404 footer cite, .freelancer-about .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .t-info cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .freelancer-about .t-item .info-404 footer .t-info cite, .team-3col .testimonials-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .team-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .team-3col .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .testimonials-3col .team-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .team-4col .testimonials-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .team-4col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .team-4col .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .testimonials-3col .team-4col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .freelancer-about .testimonials-3col .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .freelancer-about .t-item .t-info .bg-maintenance .content-wrapper .content-inner p footer cite, .freelancer-about .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .testimonials-3col .freelancer-about .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-info cite, .team-3col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item .t-info p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-3col .t-item .t-info p footer cite, .team-3col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .t-info cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-3col .t-item p footer .t-info cite, .team-4col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item .t-info p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-4col .t-item .t-info p footer cite, .team-4col .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .t-info cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .team-4col .t-item p footer .t-info cite, .freelancer-about .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item .t-info p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .freelancer-about .t-item .t-info p footer cite, .freelancer-about .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .t-info cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .freelancer-about .t-item p footer .t-info cite, .team-3col .t-item .t-info .t-role, .team-4col .t-item .t-info .t-role, .freelancer-about .t-item .t-info .t-role, .team-3col .t-item .t-info .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .team-3col .t-item .t-info .cards-header, .team-4col .t-item .t-info .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .team-4col .t-item .t-info .cards-header, .freelancer-about .t-item .t-info .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .freelancer-about .t-item .t-info .cards-header, .team-3col .t-item .t-info .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .team-3col .t-item .t-info .sc-lead, .team-4col .t-item .t-info .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .team-4col .t-item .t-info .sc-lead, .freelancer-about .t-item .t-info .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .freelancer-about .t-item .t-info .sc-lead {
@@ -4758,7 +4758,7 @@ fieldset[disabled] .form-control:hover {
 .t-join .t-image .t-description h4, .t-join .t-image .t-description .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .t-join .t-image .t-description .tab-heading, .t-join .t-image .t-description .testimonials-3col .t-item blockquote footer cite, .testimonials-3col .t-item blockquote footer .t-join .t-image .t-description cite, .t-join .t-image .t-description .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .t-join .t-image .t-description cite, .t-join .t-image .t-description .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .t-join .t-image .t-description cite, .t-join .t-image .t-description .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .t-join .t-image .t-description cite, .t-join .t-image .t-description .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .t-join .t-image .t-description cite, .team-3col .t-item .t-info .t-join .t-image .t-description .t-role, .team-4col .t-item .t-info .t-join .t-image .t-description .t-role, .freelancer-about .t-item .t-info .t-join .t-image .t-description .t-role, .t-join .t-image .t-description .t-info .t-role, .t-join .t-info .t-image .t-description .t-role, .t-join .t-image .t-description .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .t-join .t-image .t-description .cards-header, .t-join .t-image .t-description .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .t-join .t-image .t-description .sc-lead {
   margin: 0;
   padding-bottom: 30px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .t-join .t-image .t-description p {
@@ -4878,12 +4878,12 @@ fieldset[disabled] .form-control:hover {
 
 .portfolio-filters .active a {
   background: #111;
-  color: #ececec;
+  color: #bee5f0;
   padding: 3px 15px;
 }
 
 .portfolio-filters .active a:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 /* ---- 15.1 Full Width - Columns ---- */
@@ -5055,7 +5055,7 @@ fieldset[disabled] .form-control:hover {
 .portfolio-columns-fw .portfolio-item figure figcaption .p-content span:first-child, .portfolio-columns-boxed .portfolio-item figure figcaption .p-content span:first-child {
   margin-top: 0;
   margin-bottom: 0;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .portfolio-columns-fw .portfolio-item figure figcaption .p-content h2:last-child,
@@ -5411,7 +5411,7 @@ fieldset[disabled] .form-control:hover {
 .portfolio-masonry-3 .p-wrapper .p-hover .p-content p:first-child, .portfolio-masonry .p-wrapper .p-hover .p-content span:first-child, .portfolio-masonry-2 .p-wrapper .p-hover .p-content span:first-child, .portfolio-masonry-3 .p-wrapper .p-hover .p-content span:first-child {
   margin-top: 0;
   margin-bottom: 0;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .portfolio-masonry .p-wrapper .p-hover .p-content h2:last-child,
@@ -5552,7 +5552,7 @@ fieldset[disabled] .form-control:hover {
   text-align: center;
   line-height: 0;
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
   -webkit-transition: top .5;
           transition: top .5;
 }
@@ -5564,7 +5564,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .portfolio-masonry .p-wrapper .open-btn:hover, .portfolio-masonry-2 .p-wrapper .open-btn:hover, .portfolio-masonry-3 .p-wrapper .open-btn:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: #111;
 }
 
@@ -6154,7 +6154,7 @@ fieldset[disabled] .form-control:hover {
   margin-top: 0;
   margin-bottom: 50px;
    
-  color: #ececec;
+  color: #bee5f0;
 }
 
 /* ---- 17.2 CTA - Newsletter Signup ---- */
@@ -6177,7 +6177,7 @@ fieldset[disabled] .form-control:hover {
   margin-top: 0;
   margin-bottom: 100px;
   letter-spacing: 8px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .cta-newsletter .cta-wrapper input[type="email"] {
@@ -6198,7 +6198,7 @@ fieldset[disabled] .form-control:hover {
 
 .cta-newsletter .cta-wrapper input[type="email"]:focus {
   outline: none;
-  border-color: #ececec;
+  border-color: #bee5f0;
 }
 
 .cta-newsletter .cta-wrapper ::-webkit-input-placeholder {
@@ -6240,7 +6240,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .cta-dark {
-  background: #111;
+  background: #003858;
 }
 
 /* --------------------------------------------------
@@ -6340,7 +6340,7 @@ fieldset[disabled] .form-control:hover {
 .blog-columns .blog-post .bp-content .post-meta .post-comments span, .blog-classic .blog-post .bp-content .post-meta .post-comments span {
   display: inline-block;
   padding-left: 10px;
-  border-left: 1px solid #ececec;
+  border-left: 1px solid #bee5f0;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: .75em;
   letter-spacing: 2px;
@@ -6447,7 +6447,7 @@ fieldset[disabled] .form-control:hover {
 .blog-post-single .post-meta .post-comments span {
   display: inline-block;
   padding-left: 10px;
-  border-left: 1px solid #ececec;
+  border-left: 1px solid #bee5f0;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: .75em;
   letter-spacing: 2px;
@@ -6694,7 +6694,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .blog-post-comments .bp-comment .comment-info .comment-replay-btn:hover, .blog-post-comments .bp-comment-reply .comment-info .comment-replay-btn:hover {
-  color: #ececec;
+  color: #bee5f0;
   border-color: #111;
   background: #111;
 }
@@ -6703,7 +6703,7 @@ fieldset[disabled] .form-control:hover {
   margin-top: -20px;
   margin-left: 90px;
   padding-bottom: 30px;
-  border-bottom: 1px solid #ececec;
+  border-bottom: 1px solid #bee5f0;
 }
 
 .blog-post-comments .bp-comment-reply {
@@ -6870,7 +6870,7 @@ form .input-error-2:focus {
 }
 
 .contact-1 .contact-wrapper .show-info-link a:hover {
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .contact-1 .contact-wrapper .show-info-link a i {
@@ -7015,7 +7015,7 @@ form .input-error-2:focus {
 -------------------------------------------------- */
 /* ---- 21.1 Login Page 1 ---- */
 .login-1 {
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .login-1 .bg-overlay {
@@ -7101,7 +7101,7 @@ form .input-error-2:focus {
   position: relative;
   width: 100%;
   height: 100%;
-  background: #ececec url(http://placehold.it/2440x1578);
+  background: #bee5f0 url(http://placehold.it/2440x1578);
   background-position: 50%;
   background-size: cover;
   background-attachment: fixed;
@@ -7261,7 +7261,7 @@ form .input-error-2:focus {
 .comingsoon {
   width: 100%;
   height: 100vh;
-  background: #ececec url(http://placehold.it/2440x1578);
+  background: #bee5f0 url(http://placehold.it/2440x1578);
   background-position: 50%;
   background-size: cover;
 }
@@ -7331,7 +7331,7 @@ form .input-error-2:focus {
   display: table;
   width: 100%;
   height: 100vh;
-  background: #ececec url(http://placehold.it/2440x1578);
+  background: #bee5f0 url(http://placehold.it/2440x1578);
   background-position: 50%;
   background-size: cover;
 }
@@ -7392,10 +7392,10 @@ form .input-error-2:focus {
 
 .wrapper-404 .content-wrapper .lead-wrapper h1, .wrapper-404 .comingsoon .content-wrapper .lead-wrapper .content-inner .cs-timer .item .nbr-timer, .comingsoon .wrapper-404 .content-wrapper .lead-wrapper .content-inner .cs-timer .item .nbr-timer, .wrapper-404 .comingsoon .content-wrapper .content-inner .cs-timer .item .lead-wrapper .nbr-timer, .comingsoon .wrapper-404 .content-wrapper .content-inner .cs-timer .item .lead-wrapper .nbr-timer {
   padding-right: 30px;
-  border-right: 3px solid #ececec;
+  border-right: 3px solid #bee5f0;
   font-size: 120px;
   letter-spacing: 20px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .wrapper-404 .content-wrapper .info-wrapper {
@@ -7407,7 +7407,7 @@ form .input-error-2:focus {
 }
 
 .wrapper-404 .content-wrapper .info-wrapper .info-404 {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .wrapper-404 .content-wrapper .links-404 {
@@ -7457,17 +7457,17 @@ form .input-error-2:focus {
   border-radius: 100px;
   font-size: 50px;
   color: #777;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .bg-maintenance .content-wrapper .content-inner h3, .bg-maintenance .content-wrapper .content-inner .page-title .subheading, .page-title .bg-maintenance .content-wrapper .content-inner .subheading {
   margin-top: 0;
   margin: 30px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .bg-maintenance .content-wrapper .content-inner p {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 /* --------------------------------------------------
@@ -7585,7 +7585,7 @@ form .input-error-2:focus {
   font-size: 10px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #ececec;
+  color: #bee5f0;
   -webkit-transform: translateY(5px);
       -ms-transform: translateY(5px);
           transform: translateY(5px);
@@ -7630,7 +7630,7 @@ form .input-error-2:focus {
   border: none;
   font-size: 30px;
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
   opacity: 0;
   -webkit-transition: all 0.5s;
           transition: all 0.5s;
@@ -7661,7 +7661,7 @@ form .input-error-2:focus {
 .text-slider .slick-prev:hover,
 .text-slider .slick-next:hover {
   background: #111;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fs-slider .slick-prev,
@@ -7776,7 +7776,7 @@ form .input-error-2:focus {
   font-size: 6em;
   font-weight: 800;
   letter-spacing: 5px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fs-slide-1 .hero-content .hero-subheading {
@@ -7803,7 +7803,7 @@ form .input-error-2:focus {
   font-size: 6.5em;
   font-weight: 700;
   letter-spacing: 5px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fs-slide-2 .hero-content .hero-lead span {
@@ -7835,7 +7835,7 @@ form .input-error-2:focus {
   font-size: 4em;
   font-weight: 800;
   letter-spacing: 15px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fs-slide-3 .hero-content .hero-lead span {
@@ -7898,7 +7898,7 @@ form .input-error-2:focus {
   font-size: 4em;
   font-weight: 700;
   letter-spacing: 20px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fw-slider-hero .fw-slide-1 .hero-content-wrapper .hero-content .hero-subheading, .fw-slider-hero .fw-slide-3 .hero-content-wrapper .hero-content .hero-subheading {
@@ -7930,7 +7930,7 @@ form .input-error-2:focus {
   font-size: 5em;
   font-weight: 700;
   letter-spacing: 5px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content .hero-subheading {
@@ -7965,7 +7965,7 @@ form .input-error-2:focus {
 }
 
 .fs-video-hero .hero-content-wrapper .hero-content .hero-lead, .fw-video-hero .hero-content-wrapper .hero-content .hero-lead {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fs-video-hero .hero-content-wrapper .hero-content .hero-subheading, .fw-video-hero .hero-content-wrapper .hero-content .hero-subheading {
@@ -7994,7 +7994,7 @@ form .input-error-2:focus {
 
 .fw-video-hero .hero-content-wrapper .hero-content .hero-lead {
   font-size: 5em;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .fw-video-hero .hero-content-wrapper .hero-content .hero-subheading {
@@ -8029,7 +8029,7 @@ form .input-error-2:focus {
   font-size: 9em;
   font-weight: 800;
   letter-spacing: 20px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .text-slider-hero .hero-content-wrapper .hero-content .hero-subheading {
@@ -8065,7 +8065,7 @@ form .input-error-2:focus {
   font-size: 5em;
   font-weight: 700;
   letter-spacing: 15px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .freelancer-hero .hero-content-wrapper .hero-content .hero-subheading {
@@ -8161,7 +8161,7 @@ form .input-error-2:focus {
 .agency2-hero .hero-content-wrapper .hero-content .progress-group .progress-value, .progress-group .agency2-hero .hero-content-wrapper .hero-content .progress-value, .agency2-hero .hero-content-wrapper .hero-content .accordions-1 .panel .panel-heading .panel-title, .accordions-1 .panel .panel-heading .agency2-hero .hero-content-wrapper .hero-content .panel-title, .agency2-hero .hero-content-wrapper .hero-content .footer-social-links ul li, .footer-social-links ul .agency2-hero .hero-content-wrapper .hero-content li, .agency2-hero .hero-content-wrapper .hero-content .footer-contact .contact-info .show-info-link, .footer-contact .contact-info .agency2-hero .hero-content-wrapper .hero-content .show-info-link, .agency2-hero .hero-content-wrapper .hero-content .footer-contact .contact-info address ul li .adr-heading, .footer-contact .contact-info address ul li .agency2-hero .hero-content-wrapper .hero-content .adr-heading, .agency2-hero .hero-content-wrapper .hero-content .footer-contact .contact-info address .show-map, .footer-contact .contact-info address .agency2-hero .hero-content-wrapper .hero-content .show-map, .agency2-hero .hero-content-wrapper .hero-content .footer-litle address ul li .adr-group .adr-heading, .footer-litle address ul li .adr-group .agency2-hero .hero-content-wrapper .hero-content .adr-heading, .agency2-hero .hero-content-wrapper .hero-content .ft-cards .ft-item a, .ft-cards .ft-item .agency2-hero .hero-content-wrapper .hero-content a, .agency2-hero .hero-content-wrapper .hero-content .ft-cards-2 .ft-card-item .ft-content .link-btn, .ft-cards-2 .ft-card-item .ft-content .agency2-hero .hero-content-wrapper .hero-content .link-btn, .agency2-hero .hero-content-wrapper .hero-content .ft-boxed-hover ul li .hover-content a, .ft-boxed-hover ul li .hover-content .agency2-hero .hero-content-wrapper .hero-content a, .agency2-hero .hero-content-wrapper .hero-content .circles-counters .circle-item .circle-text, .circles-counters .circle-item .agency2-hero .hero-content-wrapper .hero-content .circle-text, .agency2-hero .hero-content-wrapper .hero-content .circles-counters-dark-bg .circle-item .circle-text, .circles-counters-dark-bg .circle-item .agency2-hero .hero-content-wrapper .hero-content .circle-text, .agency2-hero .hero-content-wrapper .hero-content .number-counters .count-wrapper .count-item .count-text, .number-counters .count-wrapper .count-item .agency2-hero .hero-content-wrapper .hero-content .count-text, .agency2-hero .hero-content-wrapper .hero-content .number-counters-dark-bg .count-wrapper .count-item .count-text, .number-counters-dark-bg .count-wrapper .count-item .agency2-hero .hero-content-wrapper .hero-content .count-text, .agency2-hero .hero-content-wrapper .hero-content .project-nav nav .nav-btns li a, .project-nav nav .nav-btns li .agency2-hero .hero-content-wrapper .hero-content a, .agency2-hero .hero-content-wrapper .hero-content .pricing-tables .p-table .desc, .pricing-tables .p-table .agency2-hero .hero-content-wrapper .hero-content .desc, .agency2-hero .hero-content-wrapper .hero-content .blog-post-nav .prev-btn, .blog-post-nav .agency2-hero .hero-content-wrapper .hero-content .prev-btn,
 .agency2-hero .hero-content-wrapper .hero-content .blog-post-nav .next-btn, .blog-post-nav .agency2-hero .hero-content-wrapper .hero-content .next-btn, .agency2-hero .hero-content-wrapper .hero-content .sidebar .tags-widget .tag-list li a, .sidebar .tags-widget .tag-list li .agency2-hero .hero-content-wrapper .hero-content a, .agency2-hero .hero-content-wrapper .hero-content .contact-1 .contact-wrapper .contact-info-wrapper address .address-group span, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .agency2-hero .hero-content-wrapper .hero-content span, .agency2-hero .hero-content-wrapper .hero-content .contact-1 .contact-wrapper .contact-info-wrapper address .address-group a, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .agency2-hero .hero-content-wrapper .hero-content a,
 .agency2-hero .hero-content-wrapper .hero-content .contact-1 .contact-wrapper .contact-info-wrapper address .address-group p, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .agency2-hero .hero-content-wrapper .hero-content p, .agency2-hero .hero-content-wrapper .hero-content .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a, .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link .agency2-hero .hero-content-wrapper .hero-content a, .agency2-hero .hero-content-wrapper .hero-content .landing-hero .heading-wrapper .cta-btn, .landing-hero .heading-wrapper .agency2-hero .hero-content-wrapper .hero-content .cta-btn, .agency2-hero .hero-content-wrapper .hero-content .shop-sidebar .filter-widget label, .shop-sidebar .filter-widget .agency2-hero .hero-content-wrapper .hero-content label, .agency2-hero .hero-content-wrapper .hero-content .shop-sidebar-vertical .filter-widget label, .shop-sidebar-vertical .filter-widget .agency2-hero .hero-content-wrapper .hero-content label, .agency2-hero .hero-content-wrapper .hero-content .shop-sidebar .tags-widget .tag-list li a, .shop-sidebar .tags-widget .tag-list li .agency2-hero .hero-content-wrapper .hero-content a, .agency2-hero .hero-content-wrapper .hero-content .shop-sidebar-vertical .tags-widget .tag-list li a, .shop-sidebar-vertical .tags-widget .tag-list li .agency2-hero .hero-content-wrapper .hero-content a, .agency2-hero .hero-content-wrapper .hero-content .checkout-table tbody tr td:first-child, .checkout-table tbody tr .agency2-hero .hero-content-wrapper .hero-content td:first-child, .agency2-hero .hero-content-wrapper .hero-content .prod-reviews .tp-review .tpr-name, .prod-reviews .tp-review .agency2-hero .hero-content-wrapper .hero-content .tpr-name {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .agency2-hero .hero-content-wrapper .hero-content .hero-lead {
@@ -8170,7 +8170,7 @@ form .input-error-2:focus {
   font-size: 4em;
   font-weight: 400;
   letter-spacing: 10px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .agency2-hero .hero-content-wrapper .hero-content .hero-secondary {
@@ -8211,7 +8211,7 @@ form .input-error-2:focus {
   font-size: 6.5em;
   font-weight: 700;
   letter-spacing: 20px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .animated-hero .hero-content-wrapper .hero-content .hero-lead span {
@@ -8238,7 +8238,7 @@ form .input-error-2:focus {
 
 .kenburn-hero .kenburn-slider .slick-dots li:hover {
   border-color: transparent;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .kenburn-hero .kenburn-slider canvas {
@@ -8269,7 +8269,7 @@ form .input-error-2:focus {
 }
 
 .kenburn-hero .kenburn-slider .hero-wrapper .hero-content h4, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .tab-heading, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .testimonials-3col .t-item blockquote footer cite, .testimonials-3col .t-item blockquote footer .kenburn-hero .kenburn-slider .hero-wrapper .hero-content cite, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .kenburn-hero .kenburn-slider .hero-wrapper .hero-content cite, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .kenburn-hero .kenburn-slider .hero-wrapper .hero-content cite, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .kenburn-hero .kenburn-slider .hero-wrapper .hero-content cite, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .kenburn-hero .kenburn-slider .hero-wrapper .hero-content cite, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .team-3col .t-item .t-info .t-role, .team-3col .t-item .t-info .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .t-role, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .team-4col .t-item .t-info .t-role, .team-4col .t-item .t-info .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .t-role, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .freelancer-about .t-item .t-info .t-role, .freelancer-about .t-item .t-info .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .t-role, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .t-join .t-info .t-role, .t-join .t-info .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .t-role, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .cards-header, .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .sc-lead {
-  color: #ececec;
+  color: #bee5f0;
   margin-bottom: 50px;
 }
 
@@ -8329,7 +8329,7 @@ form .input-error-2:focus {
 .landing-hero .heading-wrapper .lead {
   font-size: 2.5em;
   letter-spacing: 5px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .landing-hero .heading-wrapper .subheading {
@@ -8625,7 +8625,7 @@ form .input-error-2:focus {
 .hover-default .p-hover .p-content span:first-child, .hover-light .p-hover .p-content span:first-child {
   margin-top: 0;
   margin-bottom: 0;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .hover-default .p-hover .p-content h2:last-child,
@@ -8775,7 +8775,7 @@ form .input-error-2:focus {
   text-align: center;
   line-height: 0;
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
   -webkit-transition: top .5;
           transition: top .5;
 }
@@ -8787,7 +8787,7 @@ form .input-error-2:focus {
 }
 
 .hover-default .open-btn:hover, .hover-light .open-btn:hover {
-  color: #ececec;
+  color: #bee5f0;
   background: #111;
 }
 
@@ -8920,13 +8920,13 @@ form .input-error-2:focus {
 }
 
 .hover-light .open-btn {
-  color: #ececec;
+  color: #bee5f0;
   background: #111;
 }
 
 .hover-light .open-btn:hover {
   color: #111;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 /* ---- 26.2 Hover Bottom - Effect ---- */
@@ -8970,7 +8970,7 @@ form .input-error-2:focus {
   padding-left: 40px;
   line-height: 2.6;
   letter-spacing: 2.8px;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .portfolio-item.hover-bottom figure figcaption .hover-btns {
@@ -8991,7 +8991,7 @@ form .input-error-2:focus {
 
 .portfolio-item.hover-bottom figure figcaption .hover-btns li:hover {
   cursor: pointer;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .portfolio-item.hover-bottom figure figcaption .hover-btns li:hover a {
@@ -9003,7 +9003,7 @@ form .input-error-2:focus {
   padding: 22px;
   font-size: 17px;
   line-height: 0;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .portfolio-item.hover-bottom figure figcaption .hover-btns li a:focus,
@@ -9082,7 +9082,7 @@ form .input-error-2:focus {
   padding-bottom: 20px;
   font-size: .95em;
   line-height: 1.7;
-  color: #ececec;
+  color: #bee5f0;
   opacity: 0;
   -webkit-transition: opacity 0.6s;
           transition: opacity 0.6s;
@@ -9109,7 +9109,7 @@ form .input-error-2:focus {
 }
 
 .portfolio-item.hover-side figure figcaption .hover-more-btn:hover {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .portfolio-item.hover-side figure figcaption .hover-btns {
@@ -9131,7 +9131,7 @@ form .input-error-2:focus {
 }
 
 .portfolio-item.hover-side figure figcaption .hover-btns li:hover a {
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .portfolio-item.hover-side figure figcaption .hover-btns li a {
@@ -9300,7 +9300,7 @@ form .input-error-2:focus {
 
 .shop-product-card .product-image-wrapper .shop-p-slider-nav:hover {
   background: #111;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .shop-product-card .product-image-wrapper .shop-p-slider-nav:focus {
@@ -9451,7 +9451,7 @@ form .input-error-2:focus {
 .shop-sidebar .filter-widget .ui-slider-range, .shop-sidebar-vertical .filter-widget .ui-slider-range {
   border: none;
   border-radius: 0;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .shop-sidebar .filter-widget .ui-slider, .shop-sidebar-vertical .filter-widget .ui-slider {
@@ -9590,7 +9590,7 @@ form .input-error-2:focus {
 }
 
 .checkout-table tbody tr {
-  border: 1px solid #ececec;
+  border: 1px solid #bee5f0;
   height: 86px;
 }
 
@@ -9675,7 +9675,7 @@ form .input-error-2:focus {
 }
 
 .totals-content {
-  border: 1px solid #ececec;
+  border: 1px solid #bee5f0;
   padding-bottom: 25px;
 }
 
@@ -9849,7 +9849,7 @@ form .input-error-2:focus {
 
 .prod_single_img_slider .shop-p-slider-nav:hover {
   background: #111;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .prod_single_img_slider .shop-p-slider-nav:focus {
@@ -9950,7 +9950,7 @@ form .input-error-2:focus {
 
 .prod-size .sizes li a:hover {
   background: #111;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .prod-size .sizes li a:focus {
@@ -9959,7 +9959,7 @@ form .input-error-2:focus {
 
 .prod-size .sizes li .size-btn-active {
   background: #111;
-  color: #ececec;
+  color: #bee5f0;
 }
 
 .prod-reviews {
@@ -9969,7 +9969,7 @@ form .input-error-2:focus {
 .prod-reviews .tp-review {
   margin-bottom: 50px;
   padding-bottom: 30px;
-  border-bottom: 1px solid #ececec;
+  border-bottom: 1px solid #bee5f0;
 }
 
 .prod-reviews .tp-review .tpr-name {
@@ -10037,7 +10037,7 @@ form .input-error-2:focus {
 
 .table tbody tr td {
   padding: 15px;
-  border: 1px solid #ececec;
+  border: 1px solid #bee5f0;
   vertical-align: middle;
 }
 
@@ -10053,7 +10053,7 @@ form .input-error-2:focus {
 
 .table-light thead {
   border: none;
-  background: #ececec;
+  background: #bee5f0;
 }
 
 .table-light thead tr th {
