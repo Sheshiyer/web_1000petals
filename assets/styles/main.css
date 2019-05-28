@@ -1811,7 +1811,9 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-dark h1, .pt-dark .comingsoon .content-wrapper .content-inner .cs-timer .item .nbr-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .pt-dark .nbr-timer {
-  color: #bee5f0;
+  color: #fff;
+  font-size: 2em;
+  font-weight: 400;
 }
 
 .pt-dark .breadcrumb li a {
