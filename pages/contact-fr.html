@@ -78,11 +78,11 @@
                         <div class="row">
                             <div class="col-lg-7">
 
-                                <li><a href="../pages/news_media.html">News & Media<span class="sr-only"></span></a></li>
+                                <li><a href="../pages/news_media.html">Media<span class="sr-only"></span></a></li>
                                 <li><a href="#">Blog<span class="sr-only"></span></a></li>
                                 <li><a href="../pages/zero_temple.html">Zero Temple</a></li>
-                                <li><a href="../pages/team.html">Team</a></li>
                                 <li role="separator" class="divider"></li>
+                                <li><a href="../pages/team.html">Team</a></li> 
                                 <li><a href="../pages/faq.html">FAQ</a></li>
                                 <li><a href="../pages/contact-fr.html">Franchise</a></li>
                             </div>
@@ -99,7 +99,18 @@
 
 
 
-
+     <header class="page-title">
+        <div class="container">
+            <div class="row">
+                <h1 class="col-sm-6">Contact Us </h1>
+                <ol class="col-sm-6 text-right breadcrumb">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Be Curious</a></li>
+                    <li class="active">Franchise Contact</li>
+                </ol>
+            </div>
+        </div>
+    </header>
 
 
     <!-- ========== Contact ========== -->
@@ -108,210 +119,113 @@
 
         <header class="sec-heading">
             <h2>Say Hello</h2>
-            <span class="subheading">We love to discuss your idea</span>
+            <span class="subheading">We love to discuss your idea </span>
         </header>
-
-        <!-- Map -->
-        <div id="map-canvas" class="gmap map-wide"></div>
-
-        <div class="footer-litle ws-m">
-            <div class="gray-bg">
-
-                <!-- Contact Info -->
-                <address>
-                    <ul>
-                        <!-- Address -->
-                        <li>
-                            <span class="linea-basic-map adr-icon"></span>
-                            <div class="adr-group">
-                                <span class="adr-heading">Address</span>
-                                <span class="adr-info">100 Street, Il, Us</span>
-                            </div>
-                        </li>
-
-                        <!-- Email -->
-                        <li>
-                            <span class="linea-basic-paperplane adr-icon"></span>
-                            <div class="adr-group">
-                                <span class="adr-heading">Email</span>
-                                <span class="adr-info">sayhello@email.com</span>
-                            </div>
-                        </li>
-
-                        <!-- Phone -->
-                        <li>
-                            <span class="linea-basic-smartphone adr-icon"></span>
-                            <div class="adr-group">
-                                <span class="adr-heading">Phone</span>
-                                <span class="adr-info">+ 123 4567 890</span>
-                            </div>
-                        </li>
-                    </ul>
-                </address>
-            </div><!-- / .gray-bg -->
-        </div>
-
-        <div class="container">
-
-            <!-- Contact Form -->
-            <div class="row">
-                <form action="../assets/contact-form/contact-form.php" method="POST" id="contact-form-1" class="form-ajax">
-                    <div class="col-md-offset-2 col-md-4 wow fadeInUp" data-wow-duration="1s">
-
-                        <!-- Name -->
-                        <div class="form-group">
-                            <input type="text" name="name" id="name-contact-1" class="form-control validate-locally" placeholder="Enter your name">
-                            <label for="name-contact-1">Name</label>
-                            <span class="pull-right alert-error"></span>
-                        </div>
-
-                        <!-- Email -->
-                        <div class="form-group">
-                            <input type="email" name="email" id="email-contact-1" class="form-control validate-locally" placeholder="Enter your email">
-                            <label for="email-contact-1">Email</label>
-                            <span class="pull-right alert-error"></span>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-4 wow fadeInUp" data-wow-duration="1s">
-
-                        <!-- Message -->
-                        <div class="form-group">
-                            <textarea name="message" id="message-contact-1" class="form-control" rows="5" placeholder="Your Message"></textarea>
-                            <label for="message-contact-1">Message</label>
-                        </div>
-                        <div>
-                            <input type="submit" class="btn pull-right" value="Send Message">
-                        </div>
-
-                        <!-- Ajax Message -->
-                        <div class="ajax-message col-md-12 no-gap"></div>
-
-                    </div><!-- / .col-md-4 -->
-
-                </form>
-            </div><!-- / .row -->
-        </div><!-- / .container -->
     </section><!-- / .contact-1 -->
 
 
 
     <!-- ========== Footer Widgets ========== -->
 
-    <footer class="footer-widgets">
-        <div class="container">
-            <div class="row section">
-
-                <!-- About Us -->
-                <div class="col-md-3 col-sm-6 mb-sm-100">
-                    <div class="widget about-widget">
-                        <h5 class="header-widget">About Us</h5>
-                        <p>Lorem ipsum dolor sit amet, eiusmod consectetur adipisicing elit, sed do tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.</p>
-
-                        <ul class="social-links">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                            <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
-                        </ul>
-                    </div><!-- / .widget -->
-                </div><!-- / .col-md-3 -->
-
-                <!-- Instagram Feed -->
-                <div class="col-md-3 col-sm-6 mb-sm-100">
-                    <div class="widget gallery-widget">
-                        <h5 class="header-widget">Instagram Feed</h5>
+     <footer id="contact" class="footer-contact">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- Map and address -->
+                <div class="col-lg-6 no-gap contact-info">
+                    <!-- Show Info Button -->
+                    <a href="#" class="show-info-link"><i class="fa fa-info"></i>Show info</a>
+                    <div id="map-canvas" class="footer-map"></div>
+                    <address class="contact-info-wrapper">
                         <ul>
+                            <!-- Address -->
+                            <li class="contact-group">
+                                <span class="adr-heading">Address : Bangalore </span>
+                                <span class="adr-info">Krishna Temple Road, Indiranagar </span>
+                            </li>
+                            <li class="contact-group">
+                                <span class="adr-heading">Address : Mumbai</span>
+                                <span class="adr-info">1st Floor, Silver Crest Apts, Alfred Creado road, Juhu </span>
 
-                            <li><a href="http://placehold.it/650x450" class="gallery-widget-lightbox"><img src="http://placehold.it/87x87/999/eee" alt="Instagram Image">
-                                    <div class="hover-link"><span class="linea-arrows-plus"></span></div>
-                                </a></li>
-
-                            <li><a href="http://placehold.it/650x450" class="gallery-widget-lightbox"><img src="http://placehold.it/87x87" alt="Instagram Image">
-                                    <div class="hover-link"><span class="linea-arrows-plus"></span></div>
-                                </a></li>
-
-                            <li><a href="http://placehold.it/650x450" class="gallery-widget-lightbox"><img src="http://placehold.it/87x87/999/eee" alt="Instagram Image">
-                                    <div class="hover-link"><span class="linea-arrows-plus"></span></div>
-                                </a></li>
-
-                            <li><a href="http://placehold.it/650x450" class="gallery-widget-lightbox"><img src="http://placehold.it/87x87" alt="Instagram Image">
-                                    <div class="hover-link"><span class="linea-arrows-plus"></span></div>
-                                </a></li>
-
-                            <li><a href="http://placehold.it/650x450" class="gallery-widget-lightbox"><img src="http://placehold.it/87x87/999/eee" alt="Instagram Image">
-                                    <div class="hover-link"><span class="linea-arrows-plus"></span></div>
-                                </a></li>
-
-                            <li><a href="http://placehold.it/650x450" class="gallery-widget-lightbox"><img src="http://placehold.it/87x87" alt="Instagram Image">
-                                    <div class="hover-link"><span class="linea-arrows-plus"></span></div>
-                                </a></li>
-
+                            </li>
+                            <!-- Email -->
+                            <li class="contact-group">
+                                <span class="adr-heading">Email</span>
+                                <span class="adr-info">info@1000petals.in</span>
+                            </li>
                         </ul>
-                    </div><!-- / .widget -->
-                </div><!-- / .col-md-3 -->
-
-                <!-- Twitter Feed -->
-                <div class="col-md-3 col-sm-6 mb-sm-100">
-                    <div class="widget twitter-widget">
-                        <h5 class="header-widget">Twitter Feed</h5>
                         <ul>
-
-                            <li>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <p>5 Reasons You Should Take a Sabbatical from Creative Work <a href="#">http://enva.to/NTa6F</a> by <a href="#">@envato</a> <span>- AUG 10</span></p>
+                            <!-- Phone -->
+                            <li class="contact-group">
+                                <span class="adr-heading">Phone : Mumbai</span>
+                                <span class="adr-info">+91 88288 44770</span>
                             </li>
-
-                            <li>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <p>What is the enemy of <a href="#">#creativity</a>? <a href="#">http://enva.to/hVl5G</a> [VIDEO] <br>by <a href="#">@envato</a> <span>- AUG 5</span></p>
+                            <!-- Mobile -->
+                            <li class="contact-group">
+                                <span class="adr-heading">Phone : Bangalore</span>
+                                <span class="adr-info">+91 96868 44770</span>
                             </li>
-
                         </ul>
-                    </div><!-- / .widget -->
-                </div><!-- / .col-md-3 -->
-
-                <!-- Newsletter -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget newsletter-widget">
-                        <h5 class="header-widget">Newsletter</h5>
-
-                        <form action="post">
-                            <div class="form-group">
-                                <input type="email" name="w-newssletter" placeholder="Join our newsletter">
-                                <button type="submit"><i class="fa fa-send-o"></i></button>
-                            </div>
-                        </form>
-
-                    </div><!-- / .widget -->
-                </div><!-- / .col-md-3 -->
-
+                        <a href="#" class="show-map"><span class="linea-basic-geolocalize-05"></span>show on map</a>
+                    </address>
+                </div><!-- / .col-lg-6 -->
+                <!-- Contact Form -->
+                <div class="col-lg-6 no-gap section contact-form">
+                    <header class="sec-heading">
+                        <h2>Contact</h2>
+                        <span class="subheading">WE TAKE APPOINTMENTS BY PRIOR BOOKINGS ONLY - CALL US TO RESERVE YOUR SLOT</span>
+                    </header>
+                    <form action="assets/contact-form/contact-form.php" method="POST" class="form-ajax wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
+                        <!-- Name -->
+                        <div class="form-group">
+                            <input type="text" name="name" id="name-contact-1" class="form-control validate-locally" placeholder="Enter your name">
+                            <label for="name-contact-1">Name</label>
+                            <span class="pull-right alert-error"></span>
+                        </div>
+                        <!-- Email -->
+                        <div class="form-group">
+                            <input type="email" name="email" id="email-contact-1" class="form-control validate-locally" placeholder="Enter your email">
+                            <label for="email-contact-1">Email</label>
+                            <span class="pull-right alert-error"></span>
+                        </div>
+                        <!-- Message -->
+                        <div class="form-group">
+                            <textarea class="form-control" name="message" id="message-contact-1" rows="5" placeholder="Your Message"></textarea>
+                            <label for="message-contact-1">Message</label>
+                        </div>
+                        <input type="submit" class="btn pull-right" value="Send Message">
+                        <!-- Ajax Message -->
+                        <div class="ajax-message col-md-12 no-gap"></div>
+                    </form>
+                </div><!-- / .col-lg-6 -->
             </div><!-- / .row -->
-        </div><!-- / .container -->
-
-
+        </div><!-- / .container-fluid -->
+        <!-- Social Links -->
+        <div class="dark-bg">
+            <div class="container footer-social-links">
+                <div class="row">
+                    <ul>
+                         <li><a href="https://www.facebook.com/1kpetals" target="_blank">Facebook</a></li>
+                        <li><a href="https://www.instagram.com/1kpetals/">Instagram</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCtcs_Qr2TZwsh4vjfT5JQ4w">Youtube</a></li>
+                        <li><a href="https://www.tripadvisor.in/Attraction_Review-g297628-d10785500-Reviews-1000_Petals-Bengaluru_Bangalore_District_Karnataka.html">Trip Advisor</a></li>
+                    </ul>
+                </div>
+            </div><!-- / .container -->
+        </div><!-- / .dark-bg -->
         <!-- Copyright -->
         <div class="copyright">
             <div class="container">
                 <div class="row">
-
-                    <div class="col-sm-6">
-                        <small>&copy; 2015 Definity. Made by <a class="no-style-link" href="http://1000petals.in" target="_blank">OctarineThemes</a></small>
+                    <div class="col-md-6">
+                        <small>&copy; 1000 Petals India <a class="no-style-link" href="http://1000petals.in" target="_blank"></a></small>
                     </div>
-
-                    <div class="col-sm-6">
+                    <div class="col-md-6">
                         <small><a href="#page-top" class="pull-right to-the-top">To the top<i class="fa fa-angle-up"></i></a></small>
                     </div>
-
                 </div><!-- / .row -->
             </div><!-- / .container -->
         </div><!-- / .copyright -->
-
-    </footer><!-- / .footer-widgets -->
-
-
+    </footer><!-- / .footer-contact -->
 
     <!-- ========== Scripts ========== -->
 
