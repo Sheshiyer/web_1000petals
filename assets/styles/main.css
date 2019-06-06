@@ -926,7 +926,7 @@ hr {
   width: 100%;
 }
 .section , .paddingtopip {
-   
+
   padding-top: 5em !important;
 }
 
@@ -3672,9 +3672,9 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-layout-50 .ft-item .ft-img-wrapper img {
-  width: 100%;
-  max-width: 100%;
-  height: 100%;
+  width: 100vh;
+  min-width: 100%;
+  height:100%;
 }
 
 .ft-layout-50 .ft-item .ft-img-wrapper .ft-video-wrapper {
@@ -3768,14 +3768,14 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-1 {
-  background: #ccc url(http://1000petals.in/assets/images/EEG_normal_brain.jpg);
+  background: #ccc url(./../assets/images/EEG_1.jpg);
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
           transition: background-size 0.3s;
 }
 .ft-hover-item .ft-2 {
-  background: #ccc url((http://1000petals.in/assets/images/EEG_on_LuciaNo3.jpg);
+  background: #ccc url(./../assets/images/EEG_2.jpg);
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
@@ -3794,7 +3794,12 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-2 {
-  background: #ccc url(/assets/images/EEG_on_LuciaNo3.jpg);
+  background: #ccc url(../../assets/images/EEG_2.jpg);
+  background-size: 100%;
+  background-position: 50%;
+}
+.ft-hover-item .ft-1 {
+  background: #ccc url(../../assets/images/EEG_1.jpg);
   background-size: 100%;
   background-position: 50%;
 }
@@ -6135,9 +6140,9 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 /* ---- 17.1 CTA - Link ---- */
 .cta-link {
-  background: url(../../assets/images/cta-bg_big.jpg) repeat;   
+  background: url(../../assets/images/cta-bg_big.jpg) repeat;
   background-size: cover;
-  
+
 
 }
 
@@ -6155,7 +6160,7 @@ fieldset[disabled] .form-control:hover {
 .cta-link .cta-wrapper h3, .cta-link .cta-wrapper .page-title .subheading, .page-title .cta-link .cta-wrapper .subheading {
   margin-top: 0;
   margin-bottom: 50px;
-   
+
   color: #bee5f0;
 }
 
@@ -10077,10 +10082,10 @@ form .input-error-2:focus {
 }
 
 .blue1 {
-   
+
   background-color: #008aa2c2 !important;
   color: #000;
- 
+
 }
 
 .blue3 {
